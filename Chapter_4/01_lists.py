@@ -13,5 +13,5 @@ print(a)
 
 # We can create a list with items of different types
 c = [45, "Ram", False, 6.9]
-print(c)
+print(c) 
 
